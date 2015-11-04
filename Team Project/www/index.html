@@ -11,10 +11,10 @@
         </head>
        <body>
 		<img src = "img/logo.png" alt="EduSign"/>
-		<table>
-			<tr>
-				<td><button type="button" value = "Emotions" onclick="location.href = 'html/menu.html'">Login</button></td>
-			</tr>
-		</table>
+		<form action="html/menu.html">
+			Username: <input type="text" name="user">
+			Password: <input type="password" name="pass">
+			<button name="Login" type="submit" value="Login">Login</button>
+		</form>
 	</body>
 </html>
