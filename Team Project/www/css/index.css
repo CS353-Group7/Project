@@ -71,3 +71,6 @@ button:active {
 	border-style:none;
 }
 button:focus {outline:0;}
+button .pictures {
+width:100%;
+	height:100%;}
