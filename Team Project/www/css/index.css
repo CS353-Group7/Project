@@ -58,13 +58,14 @@ table {
 	table-layout:fixed;
 }
 div input{
-	width:25%;
+	height:25%;
 	display:block;
 	margin:3px auto;
 }
 button{
 	display:block;
 	margin:5px auto;
+	height:100%;
 	width:90%;
 	border-style:none;
 	font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
