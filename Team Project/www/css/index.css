@@ -57,15 +57,15 @@ table {
 	margin:0;
 	table-layout:fixed;
 }
-table tr td img{
+div input{
+	width:25%;
 	display:block;
-	min-height:90%;
-	max-height:90%;
-	margin:0 auto;
+	margin:3px auto;
 }
 button{
-	width:100%;
-	height:100%;
+	display:block;
+	margin:5px auto;
+	width:90%;
 	border-style:none;
 	font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size:5em;
